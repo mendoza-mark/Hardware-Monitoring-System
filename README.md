@@ -28,7 +28,6 @@ A professional, cross-platform system monitoring tool that provides real-time tr
 - [Performance Considerations](#performance-considerations)
 - [Comparison with Original](#comparison-with-original)
 - [Advanced Usage](#advanced-usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Support](#support)
 
